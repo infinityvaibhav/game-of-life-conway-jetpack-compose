@@ -1,4 +1,6 @@
-package com.example.gameoflifeconway
+package com.example.gameoflifeconway.data
+
+import com.example.gameoflifeconway.R
 
 object BackgroundImage {
     val allBackgroundImages = listOf(
